@@ -10,8 +10,8 @@ h1 {
 }
 
 #chart1 {
-	height: 300px;
-	width: 300px;
+	height: 400px;
+	width: 400px;
 	position: relative;
 }
 
@@ -27,6 +27,10 @@ h1 {
 
 #on-desktop {
   display: none;
+}
+
+path.hidden {
+	display: none;
 }
 
 @media(min-width:750px){
