@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="amo.io" resolutions="1x,2x" timestamp="1522702021560">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="amo.io" resolutions="1x,2x" timestamp="1522702814018">
   <folder name="css">
     <file name="site_global.css" crc="477545719"/>
-    <file name="index.css" crc="4060485705" ref="index"/>
+    <file name="index.css" crc="3772927675" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -163,8 +163,8 @@
     <file name="img_6416_2x.jpg" crc="4155514922" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1261-6.png" crc="4056082793" ref="index"/>
-    <file name="u1261-6_2x.png" crc="4249717185" ref="index"/>
+    <file name="u1261-6.png" crc="272452390" ref="index"/>
+    <file name="u1261-6_2x.png" crc="4202249398" ref="index"/>
     <file name="img_6425.jpg" crc="4201438474" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -224,5 +224,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="390621086" seo="true" mt="1522702013447" redirect="true"/>
+  <file name="index.html" crc="50393164" seo="true" mt="1522702790212" redirect="true"/>
 </manifest>
