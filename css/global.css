@@ -256,4 +256,8 @@ main {
     width: 300px;
   }
 
+  main {
+    font-weight: 400;
+  }
+
 }
