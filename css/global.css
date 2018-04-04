@@ -183,7 +183,7 @@ nav {
 }
 
 main {
-  font-weight: 100;
+  font-weight: 400;
   font-family: 'Lato', sans-serif;
 }
 
@@ -257,7 +257,7 @@ main {
   }
 
   main {
-    font-weight: 400;
+    font-weight: 100;
   }
 
 }
